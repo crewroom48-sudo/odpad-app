@@ -1,10 +1,10 @@
 workflows:
   expo-android-apk:
     name: Expo Android APK
-    max_build_duration: 60
 
     environment:
-      node: 18
+      groups:
+        - expo
 
     scripts:
       - npm install
