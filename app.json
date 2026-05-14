@@ -1,10 +1,12 @@
 {
   "expo": {
     "name": "odpad-app",
-    "slug": "odpad-app",
+    "slug": "odpad-apk-2xhqkyku-4cd7hbbncqhg",
     "version": "1.0.0",
     "orientation": "portrait",
+
     "icon": "./assets/icon.png",
+
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
 
