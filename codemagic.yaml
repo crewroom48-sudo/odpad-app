@@ -12,4 +12,4 @@ workflows:
       - eas build --platform android --profile preview --non-interactive
 
     artifacts:
-      - "*.apk"
+
