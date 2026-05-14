@@ -19,7 +19,7 @@
     },
 
     "android": {
-      "package": "com.odpad.app",
+      "package": "com.crewroom48.odpadapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -29,6 +29,12 @@
 
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "b63b1ba3-ba79-4a95-8868-75a4a0d5b434"
+      }
     },
 
     "description": "Mcd odpad"
